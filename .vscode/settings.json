@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "zf_common_headfile.h": "c",
+        "zf_driver_pwm.h": "c",
+        "motor.h": "c",
+        "fast_compute.h": "c"
+    }
+}
